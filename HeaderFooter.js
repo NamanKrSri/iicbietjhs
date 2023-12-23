@@ -214,11 +214,11 @@ class MyFooter extends HTMLElement {
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>
-                    <a class="btn btn-link" href="">Home</a>
-                    <a class="btn btn-link" href="">Events</a>
-                    <a class="btn btn-link" href="">Tranings</a>
-                    <a class="btn btn-link" href="">R&D Patnership</a>
-                    <a class="btn btn-link" href="">About</a>
+                    <a class="btn btn-link" href="https://iicbietjhs.netlify.app/index.html">Home</a>
+                    <a class="btn btn-link" href="https://iicbietjhs.netlify.app/other-events/index.html">Events</a>
+                    <a class="btn btn-link" href="https://iicbietjhs.netlify.app/training/index.html">Tranings</a>
+                    <a class="btn btn-link" href="https://iicbietjhs.netlify.app/entrepreneurship/index.html">BIICF</a>
+                    <a class="btn btn-link" href="https://iicbietjhs.netlify.app/about">About</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Newsletter</h5>
